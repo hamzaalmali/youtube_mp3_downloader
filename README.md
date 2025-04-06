@@ -1,5 +1,8 @@
 # YouMp3 app
 
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/cd84f110-77b7-4e11-8a7f-39184c223c87" />
+
+
 ## Run the app
 
 ### uv
